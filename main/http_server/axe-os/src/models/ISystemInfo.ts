@@ -68,6 +68,7 @@ export interface ISystemInfo {
     axeOSVersion: string,
     idfVersion: string,
     boardVersion: string,
+    family: string,
     autofanspeed: number,
     minFanSpeed: number,
     fanspeed: number,
