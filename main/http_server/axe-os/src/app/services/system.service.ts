@@ -79,6 +79,7 @@ export class SystemService {
         axeOSVersion: "v2.9.0",
         idfVersion: "v5.1.2",
         boardVersion: "204",
+        family: "FAMILY_ULTRA",
         display: "SSD1306 (128x32)",
         rotation: 0,
         invertscreen: 0,
